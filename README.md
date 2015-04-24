@@ -1,4 +1,4 @@
-# OOP_Assignment_2
+# Assignment 2
 Assignment 2: Classes & Objects
 
 The goal of this assignment is to build an application that consists of a class whose object values are assigned from a text file.There will also be a subclass, a vector and exception handling. Include the following criteria:
