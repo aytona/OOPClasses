@@ -1,0 +1,5 @@
+Gretchen 3.3 78 true
+Alonzo 3.0 73 true
+Adrienne 3.7 85 true
+Della 0.0 47 false
+Brent 4.0 89 true
